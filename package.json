@@ -1,0 +1,19 @@
+{
+  "name": "browser-window-sample",
+  "version": "0.0.1",
+  "description": "A sample Electron application to demonstrate BrowserWindow creation",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "BrowserWindow",
+    "sample"
+  ],
+  "author": "Wagner Holleweger",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^28.1.3"
+  }
+}
