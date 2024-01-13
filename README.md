@@ -1,5 +1,3 @@
-# Página 73 (83)
-
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
